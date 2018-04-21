@@ -1,0 +1,5 @@
+RewriteEngine On
+#RewriteBase http://app-1522058740.000webhostapp.com
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule (.*) index.php/$1
