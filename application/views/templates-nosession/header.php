@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta name="author" content="">
 
     <title><?php echo($title);?></title>
-    <link rel="shortcut icon" type="image/x-icon" href="<?php echo(base_url());?>images/favicon.ico" />s
+    <link rel="shortcut icon" type="image/x-icon" href="<?php echo(base_url());?>images/favicon.ico" />
 
     <!-- Fonts from Google API -->
     <link href="https://fonts.googleapis.com/css?family=Neucha|Open+Sans" rel="stylesheet" type="text/css">
